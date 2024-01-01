@@ -12,3 +12,4 @@ Author:Ramya
 5.Hiding the last seen
 6.Add Audio file
 7.Add video file
+8. Adding status so that user can play games
