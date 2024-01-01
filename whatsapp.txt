@@ -10,3 +10,5 @@ Author:Ramya
 
 4.Attachments (Image,Audio,Video)code
 5.Hiding the last seen
+6.Add Audio file
+7.Add video file
